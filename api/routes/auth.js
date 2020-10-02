@@ -14,6 +14,4 @@ router.post('/register', function(req, res, next) {
   res.send('hello from /register');
 });
 
-
-
 module.exports = router;
